@@ -290,6 +290,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px 0;
 
     a {
       color: #fff;
@@ -370,7 +371,7 @@ img {
 }
 
 .section-support {
-  background: url($imgpath + 'default.jpg') no-repeat center center;
+  background: url($imgpath + 'sec5-bg.jpg') no-repeat center center;
   background-size: cover;
 }
 
@@ -475,7 +476,7 @@ img {
 }
 
 .section-date {
-  background: url($imgpath + 'default.jpg') no-repeat center center;
+  background: url($imgpath + 'sec3-bg.jpg') no-repeat center center;
   background-size: cover;
 
   .gradient-border {
@@ -519,7 +520,7 @@ img {
 }
 
 .section-price {
-  background: url($imgpath + 's1.png') no-repeat center center;
+  background: url($imgpath + 'sec4-bg.jpg') no-repeat center center;
   background-size: cover;
 }
 

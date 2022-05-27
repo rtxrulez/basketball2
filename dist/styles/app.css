@@ -6918,6 +6918,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 20px 0;
 }
 
 .contacts__footer a {
@@ -6999,7 +7000,7 @@ img {
 }
 
 .section-support {
-  background: url("../img/default.jpg") no-repeat center center;
+  background: url("../img/sec5-bg.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -7104,7 +7105,7 @@ img {
 }
 
 .section-date {
-  background: url("../img/default.jpg") no-repeat center center;
+  background: url("../img/sec3-bg.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -7146,7 +7147,7 @@ img {
 }
 
 .section-price {
-  background: url("../img/s1.png") no-repeat center center;
+  background: url("../img/sec4-bg.jpg") no-repeat center center;
   background-size: cover;
 }
 
